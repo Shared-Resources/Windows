@@ -1,0 +1,1 @@
+w32tm.exe /config /manualpeerlist:a.ntp.br /syncfromflags:manual /reliable:YES /update
