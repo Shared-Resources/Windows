@@ -1,0 +1,3 @@
+Ren igfxCPL.cpl igfxCPL.cpl.bak          
+Taskkill /f /im explorer.exe
+Explorer.exe
