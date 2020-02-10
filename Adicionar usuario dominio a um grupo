@@ -1,0 +1,2 @@
+net localgroup users domainname\username /add
+net localgroup Administradores domainname\username /add
