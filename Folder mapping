@@ -1,0 +1,2 @@
+net use g: /delete /y
+net use G: \\ip\folder password /user:administrador
