@@ -1,0 +1,3 @@
+Public Sub insertRowBelow()
+ActiveCell.Offset(1).EntireRow.Insert Shift:=xlDown, CopyOrigin:=xlFormatFromRightOrAbove
+End Sub
