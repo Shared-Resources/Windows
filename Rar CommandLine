@@ -1,0 +1,2 @@
+"C:\Program Files\WinRAR\rar.exe" a -hpPassWord123 "E:\WindowsImageBackup.rar" "E:\WindowsImageBackup"
+| Caminho executavel do rar | a(add archive) | -psenha | NomeArquivoCriado.rar | Pasta/Arquivo para compactar
