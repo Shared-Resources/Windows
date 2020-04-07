@@ -5,3 +5,7 @@ Solução:
 3- Ativar ou desativar recursos do Windows
 4- Marcar a opção: Suporte para compartilhamento de arquivos SMB 1.0/CIFS (não recomendado pela microsoft)
 5- Desmarcar opção SMB Direct
+
+
+Se Persistir o erro é devido a maquina ser conectada no dominio. Fazer no CMD:
+net use l: \\ip\share /user:domain\username
