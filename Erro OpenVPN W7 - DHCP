@@ -1,0 +1,7 @@
+Check if the dhcp media sense option is disabled in the ipv4 global configuration:
+command line: "netsh interface ipv4 show global"
+
+"Detecção de Mídia Dhcp                    : enabled"
+
+If is disabled, enabled it:
+command line: "netsh interface ipv4 set global dhcpmediasense=enabled"
